@@ -1,0 +1,23 @@
+{
+  "name": "Rancho",
+  "short_name": "Rancho",
+  "description": "Controle de presença e alimentação",
+  "start_url": "/rancho-app/",
+  "scope": "/rancho-app/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d1410",
+  "theme_color": "#00e676",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
